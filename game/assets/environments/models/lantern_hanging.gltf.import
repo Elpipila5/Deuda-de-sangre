@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://mmh4naq84hcc"
-path="res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"
+uid="uid://cer042vdbsxml"
+path="res://.godot/imported/lantern_hanging.gltf-fd829fee5576fadb64a75520c761a105.scn"
 
 [deps]
 
-source_file="res://Decoraciones/bench.gltf"
-dest_files=["res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"]
+source_file="res://Decoraciones/lantern_hanging.gltf"
+dest_files=["res://.godot/imported/lantern_hanging.gltf-fd829fee5576fadb64a75520c761a105.scn"]
 
 [params]
 

@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://mmh4naq84hcc"
-path="res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"
+uid="uid://dt1tqx3ojwexn"
+path="res://.godot/imported/candle_melted.gltf-f0f607726a1701a99ce7a0bb1b38aa8f.scn"
 
 [deps]
 
-source_file="res://Decoraciones/bench.gltf"
-dest_files=["res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"]
+source_file="res://Decoraciones/candle_melted.gltf"
+dest_files=["res://.godot/imported/candle_melted.gltf-f0f607726a1701a99ce7a0bb1b38aa8f.scn"]
 
 [params]
 

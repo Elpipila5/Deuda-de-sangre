@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://mmh4naq84hcc"
-path="res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"
+uid="uid://mld7kpt1o5qi"
+path="res://.godot/imported/bone_C.gltf-d47171788159b9a90a2f387e26cc8ce2.scn"
 
 [deps]
 
-source_file="res://Decoraciones/bench.gltf"
-dest_files=["res://.godot/imported/bench.gltf-9408447be8ccf46435141c5f657db046.scn"]
+source_file="res://Decoraciones/bone_C.gltf"
+dest_files=["res://.godot/imported/bone_C.gltf-d47171788159b9a90a2f387e26cc8ce2.scn"]
 
 [params]
 
