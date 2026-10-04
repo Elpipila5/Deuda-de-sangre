@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://o3p7mtfmbf15"
-path.s3tc="res://.godot/imported/platformer_texture.png-9afc5d2cffd4b634feef890abf61086a.s3tc.ctex"
+uid="uid://un7nau2kwwou"
+path.s3tc="res://.godot/imported/platformer_texture.png-449005f4a4b5a07e914d6da532cc4dd0.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://tuberias y mas/yellow/platformer_texture.png"
-dest_files=["res://.godot/imported/platformer_texture.png-9afc5d2cffd4b634feef890abf61086a.s3tc.ctex"]
+source_file="res://tuberias y mas/red/platformer_texture.png"
+dest_files=["res://.godot/imported/platformer_texture.png-449005f4a4b5a07e914d6da532cc4dd0.s3tc.ctex"]
 
 [params]
 
