@@ -1,0 +1,33 @@
+# Godot
+.godot/
+**/.godot/
+
+# C# / .NET
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+**/.vs/
+
+# VS Code
+.vscode/
+
+# Temporales
+*.tmp
+*.temp
+*.log
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Builds
+builds/
+exports/
