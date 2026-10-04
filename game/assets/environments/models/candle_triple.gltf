@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "bench"
+            "name" : "candle_triple"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cube.117",
+            "name" : "Cylinder.115",
             "primitives" : [
                 {
                     "attributes" : {
@@ -63,61 +63,61 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 273,
             "max" : [
-                1.0000057220458984,
-                0.4999999701976776,
-                0.3749999403953552
+                0.3005937933921814,
+                0.785683810710907,
+                0.20735780894756317
             ],
             "min" : [
-                -1.0000057220458984,
+                -0.15046696364879608,
                 0,
-                -0.3750000596046448
+                -0.14357392489910126
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 273,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 273,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 516,
+            "count" : 594,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3696,
+            "byteLength" : 3276,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2464,
-            "byteOffset" : 3696,
+            "byteLength" : 2184,
+            "byteOffset" : 3276,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3696,
-            "byteOffset" : 6160,
+            "byteLength" : 3276,
+            "byteOffset" : 5460,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1032,
-            "byteOffset" : 9856,
+            "byteLength" : 1188,
+            "byteOffset" : 8736,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10888,
-            "uri" : "bench.bin"
+            "byteLength" : 9924,
+            "uri" : "candle_triple.bin"
         }
     ]
 }

@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "bench"
+            "name" : "arch"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cube.117",
+            "name" : "Cube.635",
             "primitives" : [
                 {
                     "attributes" : {
@@ -63,61 +63,61 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 820,
             "max" : [
-                1.0000057220458984,
-                0.4999999701976776,
-                0.3749999403953552
+                2.1092209815979004,
+                4.413949012756348,
+                0.3849385976791382
             ],
             "min" : [
-                -1.0000057220458984,
+                -2.1092209815979004,
                 0,
-                -0.3750000596046448
+                -0.3849383592605591
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 820,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 820,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 516,
+            "count" : 1308,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3696,
+            "byteLength" : 9840,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2464,
-            "byteOffset" : 3696,
+            "byteLength" : 6560,
+            "byteOffset" : 9840,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3696,
-            "byteOffset" : 6160,
+            "byteLength" : 9840,
+            "byteOffset" : 16400,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1032,
-            "byteOffset" : 9856,
+            "byteLength" : 2616,
+            "byteOffset" : 26240,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10888,
-            "uri" : "bench.bin"
+            "byteLength" : 28856,
+            "uri" : "arch.bin"
         }
     ]
 }

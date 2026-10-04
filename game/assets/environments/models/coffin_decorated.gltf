@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "bench"
+            "name" : "coffin_decorated"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cube.117",
+            "name" : "Cube.536",
             "primitives" : [
                 {
                     "attributes" : {
@@ -63,61 +63,61 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 2090,
             "max" : [
-                1.0000057220458984,
-                0.4999999701976776,
-                0.3749999403953552
+                1,
+                0.9025096297264099,
+                1.5
             ],
             "min" : [
-                -1.0000057220458984,
+                -1,
                 0,
-                -0.3750000596046448
+                -1.5
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 2090,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 2090,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 516,
+            "count" : 6192,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3696,
+            "byteLength" : 25080,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2464,
-            "byteOffset" : 3696,
+            "byteLength" : 16720,
+            "byteOffset" : 25080,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3696,
-            "byteOffset" : 6160,
+            "byteLength" : 25080,
+            "byteOffset" : 41800,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1032,
-            "byteOffset" : 9856,
+            "byteLength" : 12384,
+            "byteOffset" : 66880,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10888,
-            "uri" : "bench.bin"
+            "byteLength" : 79264,
+            "uri" : "coffin_decorated.bin"
         }
     ]
 }

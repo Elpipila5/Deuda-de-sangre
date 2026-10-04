@@ -15,7 +15,7 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "bench"
+            "name" : "bone_C"
         }
     ],
     "materials" : [
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cube.117",
+            "name" : "Cube.552",
             "primitives" : [
                 {
                     "attributes" : {
@@ -63,61 +63,61 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 199,
             "max" : [
-                1.0000057220458984,
-                0.4999999701976776,
-                0.3749999403953552
+                0.5534942150115967,
+                0.1380404233932495,
+                0.10033316910266876
             ],
             "min" : [
-                -1.0000057220458984,
-                0,
-                -0.3750000596046448
+                -0.5534946322441101,
+                -0.13803987205028534,
+                -0.10033319145441055
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 199,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 199,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 516,
+            "count" : 612,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3696,
+            "byteLength" : 2388,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2464,
-            "byteOffset" : 3696,
+            "byteLength" : 1592,
+            "byteOffset" : 2388,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3696,
-            "byteOffset" : 6160,
+            "byteLength" : 2388,
+            "byteOffset" : 3980,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1032,
-            "byteOffset" : 9856,
+            "byteLength" : 1224,
+            "byteOffset" : 6368,
             "target" : 34963
         }
     ],
@@ -129,8 +129,8 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10888,
-            "uri" : "bench.bin"
+            "byteLength" : 7592,
+            "uri" : "bone_C.bin"
         }
     ]
 }
