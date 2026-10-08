@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlhiai4k1c0ty"
+path="res://.godot/imported/sniper.obj-53242c14c194fab6a5005967620c22fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sniper.obj-53242c14c194fab6a5005967620c22fb.mesh"]
+
+source_file="res://guns/obj_mtl/sniper.obj"
+dest_files=["res://.godot/imported/sniper.obj-53242c14c194fab6a5005967620c22fb.mesh", "res://.godot/imported/sniper.obj-53242c14c194fab6a5005967620c22fb.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
