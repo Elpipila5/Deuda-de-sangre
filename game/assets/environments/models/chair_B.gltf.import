@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://chxjts27b2dnb"
-path="res://.godot/imported/chair_B.gltf-ff126cb596c8aaba7b32cc315dfb48ad.scn"
+uid="uid://cm1mmmlntohdd"
+path="res://.godot/imported/chair_B.gltf-7f2315d335bb5d7e84f9a579e0e466cd.scn"
 
 [deps]
 
-source_file="res://Restaurante/chair_B.gltf"
-dest_files=["res://.godot/imported/chair_B.gltf-ff126cb596c8aaba7b32cc315dfb48ad.scn"]
+source_file="res://Objetos/chair_B.gltf"
+dest_files=["res://.godot/imported/chair_B.gltf-7f2315d335bb5d7e84f9a579e0e466cd.scn"]
 
 [params]
 

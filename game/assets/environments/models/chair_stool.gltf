@@ -20,7 +20,7 @@
     ],
     "materials" : [
         {
-            "name" : "restaurant",
+            "name" : "furniture_texture",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 0
@@ -32,7 +32,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cylinder.374",
+            "name" : "Cube.033",
             "primitives" : [
                 {
                     "attributes" : {
@@ -55,69 +55,69 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "restaurantbits_texture",
-            "uri" : "restaurantbits_texture.png"
+            "name" : "furniturebits_texture",
+            "uri" : "furniturebits_texture.png"
         }
     ],
     "accessors" : [
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 262,
+            "count" : 298,
             "max" : [
-                0.37500008940696716,
+                0.3750152587890625,
                 0.5,
-                0.3750000298023224
+                0.3749999403953552
             ],
             "min" : [
-                -0.37499991059303284,
-                0,
-                -0.375
+                -0.3749847412109375,
+                -7.450580596923828e-09,
+                -0.3750000596046448
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 262,
+            "count" : 298,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 262,
+            "count" : 298,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 816,
+            "count" : 648,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3144,
+            "byteLength" : 3576,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2096,
-            "byteOffset" : 3144,
+            "byteLength" : 2384,
+            "byteOffset" : 3576,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3144,
-            "byteOffset" : 5240,
+            "byteLength" : 3576,
+            "byteOffset" : 5960,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1632,
-            "byteOffset" : 8384,
+            "byteLength" : 1296,
+            "byteOffset" : 9536,
             "target" : 34963
         }
     ],
@@ -129,7 +129,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10016,
+            "byteLength" : 10832,
             "uri" : "chair_stool.bin"
         }
     ]
