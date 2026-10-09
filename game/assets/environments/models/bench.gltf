@@ -20,19 +20,19 @@
     ],
     "materials" : [
         {
-            "name" : "HalloweenBits",
+            "name" : "citybits_texture",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 0
                 },
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.6000000238418579
+                "roughnessFactor" : 0.4000000059604645
             }
         }
     ],
     "meshes" : [
         {
-            "name" : "Cube.117",
+            "name" : "Cube.926",
             "primitives" : [
                 {
                     "attributes" : {
@@ -55,69 +55,69 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "halloweenbits_texture",
-            "uri" : "halloweenbits_texture.png"
+            "name" : "citybits_texture",
+            "uri" : "citybits_texture.png"
         }
     ],
     "accessors" : [
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 80,
             "max" : [
-                1.0000057220458984,
-                0.4999999701976776,
-                0.3749999403953552
+                0.20000001788139343,
+                0.10000002384185791,
+                0.07500002533197403
             ],
             "min" : [
-                -1.0000057220458984,
+                -0.20000001788139343,
                 0,
-                -0.3750000596046448
+                -0.07500002533197403
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 80,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 308,
+            "count" : 80,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 516,
+            "count" : 132,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 3696,
+            "byteLength" : 960,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 2464,
-            "byteOffset" : 3696,
+            "byteLength" : 640,
+            "byteOffset" : 960,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 3696,
-            "byteOffset" : 6160,
+            "byteLength" : 960,
+            "byteOffset" : 1600,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1032,
-            "byteOffset" : 9856,
+            "byteLength" : 264,
+            "byteOffset" : 2560,
             "target" : 34963
         }
     ],
@@ -129,7 +129,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 10888,
+            "byteLength" : 2824,
             "uri" : "bench.bin"
         }
     ]
