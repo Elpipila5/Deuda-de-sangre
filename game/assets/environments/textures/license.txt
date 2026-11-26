@@ -1,0 +1,8 @@
+Model Information:
+* title:	Beretta PMX PMXS Comune
+* source:	https://sketchfab.com/3d-models/beretta-pmx-pmxs-comune-1455778419a44b2aa061085fa3ad6906
+* author:	geyges (https://sketchfab.com/geyges)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

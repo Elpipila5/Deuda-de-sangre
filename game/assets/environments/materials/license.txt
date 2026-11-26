@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly RPG 7
+* source:	https://sketchfab.com/3d-models/low-poly-rpg-7-7b04d2c8e1c640a88d6549c96a8a4c0f
+* author:	Manelli (https://sketchfab.com/manelli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly RPG 7" (https://sketchfab.com/3d-models/low-poly-rpg-7-7b04d2c8e1c640a88d6549c96a8a4c0f) by Manelli (https://sketchfab.com/manelli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
