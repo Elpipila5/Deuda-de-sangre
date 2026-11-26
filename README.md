@@ -10,7 +10,7 @@ Videojuego desarrollado por Bugambilia Studio.
 
 
 
-Godot Engine 4.x .NET
+Godot Engine 4.7 .NET
 
 
 
